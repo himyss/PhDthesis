@@ -1,0 +1,49 @@
+1988AL11     Yad.Fiz. 47, 3 (1988)
+
+D.V.Aleksandrov, Yu.A.Glukhov, E.Yu.Nikolsky, B.G.Novatsky, A.A.Ogloblin, D.N.Stepanov
+
+Search for Tetraneutron in 7Li + 7Li Reaction
+
+NUCLEAR REACTIONS 7Li(7Li, 10C), E=82 MeV; measured σ(E(12C), θ=10°); deduced bound 4n production σ upper estimate.
+
+
+
+2005AL15     Pisma Zh.Eksp.Teor.Fiz. 81, 49 (2005); JETP Lett. 81, 43 (2005)
+
+D.V.Aleksandrov, E.Yu.Nikolskii, B.G.Novatskii, S.B.Sakuta, D.N.Stepanov
+
+Search for Resonances in the Three- and Four-Neutron Systems in the 7Li(7Li, 11C)3n and 7Li(7Li, 10C)4n Reactions
+
+NUCLEAR REACTIONS 7Li(7Li, 11C), (7Li, 10C), E=82 MeV; measured particle spectra; deduced resonance formation σ upper limits.
+
+doi: 10.1134/1.1887912
+
+
+
+D.V.Aleksandrov, E.Yu.Nikolsky, B.G.Novatsky, D.N.Stepanov, R.Wolski
+
+Do Excited States Exist in the Two-Neutron System ?
+
+NUCLEAR REACTIONS 3H(d, 3He), E=31 MeV; measured σ(E, θ). 2n deduced resonance J, π, decay widths.
+
+
+
+1998AL16     Pisma Zh.Eksp.Teor.Fiz. 67, 860 (1998); JETP Lett. 67, 903 (1998); Erratum JETP Lett. 68, 370 (1998)
+
+D.V.Aleksandrov, E.Yu.Nikolsky, B.G.Novatsky, D.N.Stepanov
+
+Do Excited States Exist in a System of Two Neutrons ?
+
+NUCLEAR REACTIONS 3H(d, 3He), E=31 MeV; measured 3He spectra, σ(θ). 2n deduced resonances E, Γ.
+
+doi: 10.1134/1.567797
+Data from this article have been entered in the EXFOR database. For more information, access X4 datasetF0774.
+
+
+1987AL10     Yad.Fiz. 45, 1217 (1987)
+
+D.V.Aleksandrov, Yu.A.Glukhov, E.Yu.Nikolsky, B.G.Novatsky, A.A.Ogloblin, D.N.Stepanov
+
+Experimental Study of Three-Neutron System in Reactions with Lithium Ions
+
+NUCLEAR REACTIONS 3H(7Li, 7Be), E=65, 78 MeV; 7Li(7Li, 11C), E=82 MeV; measured σ(E(7Be)), σ(E(11C)); deduced no quasistationary three-neutron system states. Si detector, ΔE-E telescope.

@@ -1,0 +1,7 @@
+1984AL08     Yad.Fiz. 39, 513 (1984)
+
+D.V.Aleksandrov, E.A.Ganza, Yu.A.Glukhov, B.G.Novatsky, A.A.Ogloblin, D.N.Stepanov
+
+Observation of Nonstable Heavy Hydrogen Isotope 6H in the Reaction 7Li(7Li, 8B)
+
+NUCLEAR REACTIONS 7Li, 12C, 16O(7Li, 8B), E=82 MeV; measured σ(E(8B)); deduced structure due to 6H. 6H deduced mass defect, (t+3n) decay instability, decay width.

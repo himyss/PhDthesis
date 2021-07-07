@@ -1,0 +1,9 @@
+1982AL33     Yad.Fiz. 36, 1351 (1982)
+
+D.V.Aleksandrov, Yu.A.Glukhov, A.S.Demyanova, V.I.Dukhanov, I.B.Mazurov, B.G.Novatsky, A.A.Ogloblin, S.B.Sakuta, D.N.Stepanov
+
+Measurement of Spectra of Light Nuclei from Triple Fission of 252Cf and Search for Isotopes 10He and 7H
+
+RADIOACTIVITY 252Cf(SF); measured σ(Eα), σ(Et), σ(E(6He)), σ(E(8He)), 10He, 7H yield upper limits.
+
+Data from this article have been entered in the EXFOR database. For more information, access X4 dataset41691.
