@@ -1,50 +1,55 @@
 \begin{thebibliography}{10}
 
-\bibitem{Sidorchuk:2012}
-S.~I. Sidorchuk, A.~A. Bezbakh, V.~Chudoba, I.~A. Egorova, A.~S. Fomichev,
-  M.~S. Golovkov, A.~V. Gorshkov, V.~A. Gorshkov, L.~V. Grigorenko,
-  P.~Jal\ifmmode~\mathring{u}\else \r{u}\fi{}vkov\'a, G.~Kaminski, S.~A.
-  Krupko, E.~A. Kuzmin, E.~Yu. Nikolskii, Yu.~Ts. Oganessian, Yu.~L. Parfenova,
-  P.~G. Sharov, R.~S. Slepnev, S.~V. Stepantsov, G.~M. Ter-Akopian, R.~Wolski,
-  A.~A. Yukhimchuk, S.~V. Filchagin, A.~A. Kirdyashkin, I.~P. Maksimkin, and
-  O.~P. Vikhlyantsev.
-\newblock Structure of $^{10}\mathrm{He}$ low-lying states uncovered by
-  correlations.
-\newblock {\em Phys. Rev. Lett.}, 108:202502, May 2012.
+\bibitem{Ahn:2019}
+D.~S. Ahn, N.~Fukuda, H.~Geissel, N.~Inabe, N.~Iwasa, T.~Kubo, K.~Kusaka, D.~J.
+  Morrissey, D.~Murai, T.~Nakamura, M.~Ohtake, H.~Otsu, H.~Sato, B.~M.
+  Sherrill, Y.~Shimizu, H.~Suzuki, H.~Takeda, O.~B. Tarasov, H.~Ueno,
+  Y.~Yanagisawa, and K.~Yoshida.
+\newblock Location of the neutron dripline at fluorine and neon.
+\newblock {\em Phys. Rev. Lett.}, 123:212501, Nov 2019.
 
-\bibitem{Kohley:2012}
-Z.~Kohley, J.~Snyder, T.~Baumann, G.~Christian, P.~A. DeYoung, J.~E. Finck,
-  R.~A. Haring-Kaye, M.~Jones, E.~Lunderberg, B.~Luther, S.~Mosby, A.~Simon,
-  J.~K. Smith, A.~Spyrou, S.~L. Stephenson, and M.~Thoennessen.
-\newblock Unresolved question of the $^{10}\mathrm{He}$ ground state resonance.
-\newblock {\em Phys. Rev. Lett.}, 109:232501, Dec 2012.
+\bibitem{Aleksandrov:1982}
+D.V. Aleksandrov, Yu.A. Glukhov, A.S. Demyanova, V.I. Dukhanov, I.B. Mazurov,
+  B.G. Novatsky, A.A. Ogloblin, S.B. Sakuta, and D.N. Stepanov.
+\newblock Measurement of spectra of light nuclei from triple fission of 252cf
+  and search for isotopes 10he and 7h.
+\newblock {\em Yad. Fiz.}, 36:1351, 1982.
 
-\bibitem{Johansson:2010a}
-H.~T. Johansson, Yu. Aksyutina, T.~Aumann, K.~Boretzky, M.~J.~G. Borge,
-  A.~Chatillon, L.~V. Chulkov, D.~Cortina-Gil, U.~Datta Pramanik, H.~Emling,
-  C.~Forssen, H.~O.~U. Fynbo, H.~Geissel, G.~Ickert, B.~Jonson, R.~Kulessa,
-  C.~Langer, M.~Lantz, T.~LeBleis, K.~Mahata, M.~Meister, G.~Munzenberg,
-  T.~Nilsson, G.~Nyman, R.~Palit, S.~Paschalis, W.~Prokopowicz, R.~Reifarth,
-  A.~Richter, K.~Riisager, G.~Schrieder, N.~B. Shulgina, H.~Simon, K.~Summerer,
-  O.~Tengblad, H.~Weick, and M.~V. Zhukov.
-\newblock Three-body correlations in the decay of $^{10}$he and $^{13}$li.
-\newblock {\em Nucl. Phys. A}, 847:66, 2010.
+\bibitem{Aoyama:2004}
+S.~Aoyama and N.~Itagaki.
+\newblock Systematic analyses on h- and he-isotopes by using an extended amd
+  approach.
+\newblock {\em Nuclear Physics A}, 738:362 -- 366, 2004.
+\newblock Proceedings of the 8th International Conference on Clustering Aspects
+  of Nuclear Structure and Dynamics.
 
-\bibitem{Spyrou:2012}
-A.~Spyrou, Z.~Kohley, T.~Baumann, D.~Bazin, B.~A. Brown, G.~Christian, P.~A.
-  DeYoung, J.~E. Finck, N.~Frank, E.~Lunderberg, S.~Mosby, W.~A. Peters,
-  A.~Schiller, J.~K. Smith, J.~Snyder, M.~J. Strongman, M.~Thoennessen, and
-  A.~Volya.
-\newblock First observation of ground state dineutron decay:
-  $^{16}\mathrm{Be}$.
-\newblock {\em Phys. Rev. Lett.}, 108:102501, Mar 2012.
+\bibitem{Aoyama:2009}
+S.~Aoyama and N.~Itagaki.
+\newblock Di-neutron correlations in $^{7}\mathrm{H}$.
+\newblock {\em Phys. Rev. C}, 80:021304, Aug 2009.
 
-\bibitem{Kohley:2013}
-Z.~Kohley, T.~Baumann, D.~Bazin, G.~Christian, P.~A. DeYoung, J.~E. Finck,
-  N.~Frank, M.~Jones, E.~Lunderberg, B.~Luther, S.~Mosby, T.~Nagi, J.~K. Smith,
-  J.~Snyder, A.~Spyrou, and M.~Thoennessen.
-\newblock Study of two-neutron radioactivity in the decay of $^{26}\mathbf{O}$.
-\newblock {\em Phys. Rev. Lett.}, 110:152501, Apr 2013.
+\bibitem{Baz:1972}
+A.~I. Baz', V.~I. Goldansky, V.~Z. Goldberg, and Ya.~B. Zeldovich.
+\newblock {\em Light and intermediate nuclei near the border of nuclear
+  stability}.
+\newblock Nauka, Moscow, Moscow, 1972.
+
+\bibitem{Caamano:2007}
+M.~Caama\~no, D.~Cortina-Gil, W.~Mittig, H.~Savajols, M.~Chartier, C.~E.
+  Demonchy, B.~Fern\'andez, M.~B. G\'omez~Hornillos, A.~Gillibert, B.~Jurado,
+  O.~Kiselev, R.~Lemmon, A.~Obertelli, F.~Rejmund, M.~Rejmund,
+  P.~Roussel-Chomaz, and R.~Wolski.
+\newblock Resonance state in $^{7}\mathrm{H}$.
+\newblock {\em Phys. Rev. Lett.}, 99:062502, Aug 2007.
+
+\bibitem{Caamano:2008}
+M.~Caama\~no, D.~Cortina-Gil, W.~Mittig, H.~Savajols, M.~Chartier, C.~E.
+  Demonchy, B.~Fern\'andez, M.~B.~G\'omez Hornillos, A.~Gillibert, B.~Jurado,
+  O.~Kiselev, R.~Lemmon, A.~Obertelli, F.~Rejmund, M.~Rejmund,
+  P.~Roussel-Chomaz, and R.~Wolski.
+\newblock Experimental study of resonance states in $^{7}\mathrm{H}$ and
+  $^{6}\mathrm{H}$.
+\newblock {\em Phys. Rev. C}, 78:044001, Oct 2008.
 
 \bibitem{Caesar:2013}
 C.~Caesar, J.~Simonis, T.~Adachi, Y.~Aksyutina, J.~Alcantara, S.~Altstadt,
@@ -73,6 +78,94 @@ C.~Caesar, J.~Simonis, T.~Adachi, Y.~Aksyutina, J.~Alcantara, S.~Altstadt,
   and ${}^{26}$o.
 \newblock {\em Phys. Rev. C}, 88:034313, Sep 2013.
 
+\bibitem{Evseev:1981}
+V.S. Evseev, V.S. Kurbatov, V.M. Sidorov, V.B. Belyaev, J.~Wrzecionko, M.~Daum,
+  R.~Frosch, J.~McCulloch, and E.~Steiner.
+\newblock Experimental study of $\pi^-$ double charge exchange with $^7$li.
+\newblock {\em Nuclear Physics A}, 352(3):379 -- 387, 1981.
+
+\bibitem{Fortier:2007}
+S.~Fortier, E.~Tryggestad, E.~Rich, D.~Beaumel, E.~Becheva, Y.~Blumenfeld,
+  F.~Delaunay, A.~Drouart, A.~Fomichev, N.~Frascaria, S.~Gales, L.~Gaudefroy,
+  A.~Gillibert, J.~Guillot, F.~Hammache, K.~W. Kemper, E.~Khan, V.~Lapoux,
+  V.~Lima, L.~Nalpas, A.~Obertelli, E.~C. Pollacco, F.~Skaza, U.~Datta
+  Pramanik, P.~Roussel-Chomaz, D.~Santonocito, J.~A. Scarpaci, O.~Sorlin, S.~V.
+  Stepantsov, G.~M. Ter~Akopian, and R.~Wolski.
+\newblock Search for resonances in 4n, 7h and 9he via transfer reactions.
+\newblock {\em AIP Conference Proceedings}, 912(1):3--12, 2007.
+
+\bibitem{Fortune:2018}
+H.~T. Fortune.
+\newblock Structure of exotic light nuclei: Z = 2, 3, 4.
+\newblock {\em Eur. Phys. J. A}, 54:51, 2018.
+
+\bibitem{Golovkov:2004}
+M.~S. Golovkov, L.~V. Grigorenko, A.~S. Fomichev, Yu.~Ts. Oganessian, Yu.~I.
+  Orlov, A.~M. Rodin, S.~I. Sidorchuk, R.~S. Slepnev, S.~V. Stepantsov, G.~M.
+  Ter-Akopian, and R.~Wolski.
+\newblock Estimates of the $^7$h width and lower decay energy limit.
+\newblock {\em Phys. Lett. B}, 588:163, 2004.
+
+\bibitem{Grigorenko:2016}
+L~V Grigorenko, M~S Golovkov, S~A Krupko, S~I Sidorchuk, G~M Ter-Akopian, A~S
+  Fomichev, and V~Chudoba.
+\newblock Studies of light exotic nuclei in the vicinity of neutron and proton
+  drip lines at flnr jinr.
+\newblock {\em Physics-Uspekhi}, 59(4):321, 2016.
+
+\bibitem{Gurov:2007}
+Yu.B. Gurov, B.A. Chernyshev, S.V. Isakov, V.~S. Karpukhin, S.V. Lapushkin,
+  I.~V. Laukhin, V.~A. Pechkurov, N.~O. Poroshin, and V.G. Sandukovsky.
+\newblock Search for superheavy hydrogen isotopes $^6$h and $^7$h in stopped
+  $\pi$-absorption reactions.
+\newblock {\em The European Physical Journal A}, 32(3):261--266, 2007.
+
+\bibitem{Gurov:2009}
+Yu.B. Gurov, S.V. Lapushkin, B.A. Chernyshev, and V.G. Sandukovsky.
+\newblock Search for superheavy hydrogen isotopes in pion absorption reactions.
+\newblock {\em Physics of Particles and Nuclei}, 40(4):558--581, 2009.
+
+\bibitem{Johansson:2010a}
+H.~T. Johansson, Yu. Aksyutina, T.~Aumann, K.~Boretzky, M.~J.~G. Borge,
+  A.~Chatillon, L.~V. Chulkov, D.~Cortina-Gil, U.~Datta Pramanik, H.~Emling,
+  C.~Forssen, H.~O.~U. Fynbo, H.~Geissel, G.~Ickert, B.~Jonson, R.~Kulessa,
+  C.~Langer, M.~Lantz, T.~LeBleis, K.~Mahata, M.~Meister, G.~Munzenberg,
+  T.~Nilsson, G.~Nyman, R.~Palit, S.~Paschalis, W.~Prokopowicz, R.~Reifarth,
+  A.~Richter, K.~Riisager, G.~Schrieder, N.~B. Shulgina, H.~Simon, K.~Summerer,
+  O.~Tengblad, H.~Weick, and M.~V. Zhukov.
+\newblock Three-body correlations in the decay of $^{10}$he and $^{13}$li.
+\newblock {\em Nucl. Phys. A}, 847:66, 2010.
+
+\bibitem{Jones:2015}
+M.~D. Jones, Z.~Kohley, T.~Baumann, G.~Christian, P.~A. DeYoung, J.~E. Finck,
+  N.~Frank, R.~A. Haring-Kaye, A.~N. Kuchera, B.~Luther, S.~Mosby, J.~K. Smith,
+  J.~Snyder, A.~Spyrou, S.~L. Stephenson, and M.~Thoennessen.
+\newblock Further insights into the reaction
+  $^{14}\mathrm{Be}(\mathrm{CH}{}_{2},x)^{10}\mathrm{He}$.
+\newblock {\em Phys. Rev. C}, 91:044312, Apr 2015.
+
+\bibitem{Kohley:2013}
+Z.~Kohley, T.~Baumann, D.~Bazin, G.~Christian, P.~A. DeYoung, J.~E. Finck,
+  N.~Frank, M.~Jones, E.~Lunderberg, B.~Luther, S.~Mosby, T.~Nagi, J.~K. Smith,
+  J.~Snyder, A.~Spyrou, and M.~Thoennessen.
+\newblock Study of two-neutron radioactivity in the decay of $^{26}\mathbf{O}$.
+\newblock {\em Phys. Rev. Lett.}, 110:152501, Apr 2013.
+
+\bibitem{Kohley:2013b}
+Z.~Kohley, E.~Lunderberg, P.~A. DeYoung, A.~Volya, T.~Baumann, D.~Bazin,
+  G.~Christian, N.~L. Cooper, N.~Frank, A.~Gade, C.~Hall, J.~Hinnefeld,
+  B.~Luther, S.~Mosby, W.~A. Peters, J.~K. Smith, J.~Snyder, A.~Spyrou, and
+  M.~Thoennessen.
+\newblock First observation of the ${}^{13}$li ground state.
+\newblock {\em Phys. Rev. C}, 87:011304, Jan 2013.
+
+\bibitem{Kohley:2012}
+Z.~Kohley, J.~Snyder, T.~Baumann, G.~Christian, P.~A. DeYoung, J.~E. Finck,
+  R.~A. Haring-Kaye, M.~Jones, E.~Lunderberg, B.~Luther, S.~Mosby, A.~Simon,
+  J.~K. Smith, A.~Spyrou, S.~L. Stephenson, and M.~Thoennessen.
+\newblock Unresolved question of the $^{10}\mathrm{He}$ ground state resonance.
+\newblock {\em Phys. Rev. Lett.}, 109:232501, Dec 2012.
+
 \bibitem{Kondo:2016}
 Y.~Kondo, T.~Nakamura, R.~Tanaka, R.~Minakata, S.~Ogoshi, N.~A. Orr, N.~L.
   Achouri, T.~Aumann, H.~Baba, F.~Delaunay, P.~Doornenbal, N.~Fukuda,
@@ -86,39 +179,6 @@ Y.~Kondo, T.~Nakamura, R.~Tanaka, R.~Minakata, S.~Ogoshi, N.~A. Orr, N.~L.
   line.
 \newblock {\em Phys. Rev. Lett.}, 116:102503, Mar 2016.
 
-\bibitem{Grigorenko:2016}
-L~V Grigorenko, M~S Golovkov, S~A Krupko, S~I Sidorchuk, G~M Ter-Akopian, A~S
-  Fomichev, and V~Chudoba.
-\newblock Studies of light exotic nuclei in the vicinity of neutron and proton
-  drip lines at flnr jinr.
-\newblock {\em Physics-Uspekhi}, 59(4):321, 2016.
-
-\bibitem{Golovkov:2004}
-M.~S. Golovkov, L.~V. Grigorenko, A.~S. Fomichev, Yu.~Ts. Oganessian, Yu.~I.
-  Orlov, A.~M. Rodin, S.~I. Sidorchuk, R.~S. Slepnev, S.~V. Stepantsov, G.~M.
-  Ter-Akopian, and R.~Wolski.
-\newblock Estimates of the $^7$h width and lower decay energy limit.
-\newblock {\em Phys. Lett. B}, 588:163, 2004.
-
-\bibitem{Grigorenko:2011}
-L.~V. Grigorenko, I.~G. Mukha, C.~Scheidenberger, and M.~V. Zhukov.
-\newblock On two-neutron radioactivity and four-nucleon emission of exotic
-  nuclei.
-\newblock {\em Phys. Rev. C}, 84:021303(R), 2011.
-
-\bibitem{Baz:1972}
-A.~I. Baz', V.~I. Goldansky, V.~Z. Goldberg, and Ya.~B. Zeldovich.
-\newblock {\em Light and intermediate nuclei near the border of nuclear
-  stability}.
-\newblock Nauka, Moscow, Moscow, 1972.
-
-\bibitem{Aleksandrov:1982}
-D.V. Aleksandrov, Yu.A.Glukhov, A.S.Demyanova, V.I.Dukhanov, I.B.Mazurov,
-  B.G.Novatsky, A.A.Ogloblin, S.B.Sakuta, and D.N.Stepanov.
-\newblock Measurement of spectra of light nuclei from triple fission of 252cf
-  and search for isotopes 10he and 7h.
-\newblock {\em Yad. Fiz.}, 36:1351, 1982.
-
 \bibitem{Korsheninnikov:2001}
 A.~A. Korsheninnikov, M.~S. Golovkov, I.~Tanihata, A.~M. Rodin, A.~S. Fomichev,
   S.~I. Sidorchuk, S.~V. Stepantsov, M.~L. Chelnokov, V.~A. Gorshkov, D.~D.
@@ -128,55 +188,82 @@ A.~A. Korsheninnikov, M.~S. Golovkov, I.~Tanihata, A.~M. Rodin, A.~S. Fomichev,
 \newblock Superheavy hydrogen $^{5}h$.
 \newblock {\em Phys. Rev. Lett.}, 87:092501, Aug 2001.
 
+\bibitem{Korsheninnikov:2003}
+A.~A. Korsheninnikov, E.~Yu. Nikolskii, E.~A. Kuzmin, A.~Ozawa, K.~Morimoto,
+  F.~Tokanai, R.~Kanungo, I.~Tanihata, N.~K. Timofeyuk, M.~S. Golovkov, A.~S.
+  Fomichev, A.~M. Rodin, M.~L. Chelnokov, G.~M. Ter-Akopian, W.~Mittig,
+  P.~Roussel-Chomaz, H.~Savajols, E.~Pollacco, A.~A. Ogloblin, and M.~V.
+  Zhukov.
+\newblock Experimental evidence for the existence of $^{7}\mathrm{H}$ and for a
+  specific structure of $^{8}\mathrm{H}\mathrm{e}$.
+\newblock {\em Phys. Rev. Lett.}, 90:082501, Feb 2003.
+
+\bibitem{Leblond:2018}
+S.~Leblond, F.~M. Marqu\'es, J.~Gibelin, N.~A. Orr, Y.~Kondo, T.~Nakamura,
+  J.~Bonnard, N.~Michel, N.~L. Achouri, T.~Aumann, H.~Baba, F.~Delaunay,
+  Q.~Deshayes, P.~Doornenbal, N.~Fukuda, J.~W. Hwang, N.~Inabe, T.~Isobe,
+  D.~Kameda, D.~Kanno, S.~Kim, N.~Kobayashi, T.~Kobayashi, T.~Kubo, J.~Lee,
+  R.~Minakata, T.~Motobayashi, D.~Murai, T.~Murakami, K.~Muto, T.~Nakashima,
+  N.~Nakatsuka, A.~Navin, S.~Nishi, S.~Ogoshi, H.~Otsu, H.~Sato, Y.~Satou,
+  Y.~Shimizu, H.~Suzuki, K.~Takahashi, H.~Takeda, S.~Takeuchi, R.~Tanaka,
+  Y.~Togano, A.~G. Tuff, M.~Vandebrouck, and K.~Yoneda.
+\newblock First observation of $^{20}\mathrm{B}$ and $^{21}\mathrm{B}$.
+\newblock {\em Phys. Rev. Lett.}, 121:262502, Dec 2018.
+
+\bibitem{Matta:2015}
+A.~Matta, D.~Beaumel, H.~Otsu, V.~Lapoux, N.~K. Timofeyuk, N.~Aoi, M.~Assi\'e,
+  H.~Baba, S.~Boissinot, R.~J. Chen, F.~Delaunay, N.~de~Sereville, S.~Franchoo,
+  P.~Gangnant, J.~Gibelin, F.~Hammache, Ch. Houarner, N.~Imai, N.~Kobayashi,
+  T.~Kubo, Y.~Kondo, Y.~Kawada, L.~H. Khiem, M.~Kurata-Nishimura, E.~A. Kuzmin,
+  J.~Lee, J.~F. Libin, T.~Motobayashi, T.~Nakamura, L.~Nalpas, E.~Yu.
+  Nikolskii, A.~Obertelli, E.~C. Pollacco, E.~Rindel, Ph. Rosier, F.~Saillant,
+  T.~Sako, H.~Sakurai, A.~M. S\'anchez-Ben\'{\i}tez, J-A. Scarpaci, I.~Stefan,
+  D.~Suzuki, K.~Takahashi, M.~Takechi, S.~Takeuchi, H.~Wang, R.~Wolski, and
+  K.~Yoneda.
+\newblock New findings on structure and production of $^{10}\mathrm{He}$ from
+  $^{11}\mathrm{Li}$ with the $(d,^{3}\mathrm{He})$ reaction.
+\newblock {\em Phys. Rev. C}, 92:041302, Oct 2015.
+
+\bibitem{Nikolskii:2010}
+E.~Yu. Nikolskii, A.~A. Korsheninnikov, H.~Otsu, H.~Suzuki, K.~Yoneda, H.~Baba,
+  K.~Yamada, Y.~Kondo, N.~Aoi, A.~S. Denikin, M.~S. Golovkov, A.~S. Fomichev,
+  S.~A. Krupko, M.~Kurokawa, E.~A. Kuzmin, I.~Martel, W.~Mittig,
+  T.~Motobayashi, T.~Nakamura, M.~Niikura, S.~Nishimura, A.~A. Ogloblin,
+  P.~Roussel-Chomaz, A.~Sanchez-Benitez, Y.~Satou, S.~I. Sidorchuk, T.~Suda,
+  S.~Takeuchi, K.~Tanaka, G.~M. Ter-Akopian, Y.~Togano, and M.~Yamaguchi.
+\newblock Search for $^{7}\mathrm{H}$ in $^{2}\mathrm{H}+^{8}\mathrm{He}$
+  collisions.
+\newblock {\em Phys. Rev. C}, 81:064606, Jun 2010.
+
+\bibitem{Seth:1981}
+K.K. Seth.
+\newblock Pionic probes for exotic nuclei, 1981.
+
+\bibitem{Sidorchuk:2012}
+S.~I. Sidorchuk, A.~A. Bezbakh, V.~Chudoba, I.~A. Egorova, A.~S. Fomichev,
+  M.~S. Golovkov, A.~V. Gorshkov, V.~A. Gorshkov, L.~V. Grigorenko,
+  P.~Jal\ifmmode~\mathring{u}\else \r{u}\fi{}vkov\'a, G.~Kaminski, S.~A.
+  Krupko, E.~A. Kuzmin, E.~Yu. Nikolskii, Yu.~Ts. Oganessian, Yu.~L. Parfenova,
+  P.~G. Sharov, R.~S. Slepnev, S.~V. Stepantsov, G.~M. Ter-Akopian, R.~Wolski,
+  A.~A. Yukhimchuk, S.~V. Filchagin, A.~A. Kirdyashkin, I.~P. Maksimkin, and
+  O.~P. Vikhlyantsev.
+\newblock Structure of $^{10}\mathrm{He}$ low-lying states uncovered by
+  correlations.
+\newblock {\em Phys. Rev. Lett.}, 108:202502, May 2012.
+
+\bibitem{Spyrou:2012}
+A.~Spyrou, Z.~Kohley, T.~Baumann, D.~Bazin, B.~A. Brown, G.~Christian, P.~A.
+  DeYoung, J.~E. Finck, N.~Frank, E.~Lunderberg, S.~Mosby, W.~A. Peters,
+  A.~Schiller, J.~K. Smith, J.~Snyder, M.~J. Strongman, M.~Thoennessen, and
+  A.~Volya.
+\newblock First observation of ground state dineutron decay:
+  $^{16}\mathrm{Be}$.
+\newblock {\em Phys. Rev. Lett.}, 108:102501, Mar 2012.
+
 \bibitem{Timofeyuk:2002}
 N.~K. Timofeyuk.
 \newblock Shell model approach to construction of a hyperspherical basis for a
   identical particles: Application to hydrogen and helium isotopes.
 \newblock {\em Phys. Rev. C}, 65:064306, May 2002.
 
-\bibitem{Korsheninnikov:2003}
-A.A. Korsheninnikov, E.Yu. Nikolskii, E.A. Kuzmin, A.~Ozawa, K.~Morimoto,
-  F.~Tokanai, R.~Kanungo, I.~Tanihata, N.K. Timofeyuk, M.S. Golovkov, A.S.
-  Fomichev, A.M. Rodin, M.L. Chelnokov, G.M. Ter-Akopian, W.~Mittig,
-  P.~Roussel-Chomaz, H.Savajols, E.~Pollacco, A.A. Ogloblin, and M.V. Zhukov.
-\newblock Experimental evidence for the existence of $^7$h and for a specific
-  structure of $^8$he.
-\newblock {\em Phys. Rev. Lett.}, 90:082501, 2003.
-
-\bibitem{Aoyama:2009}
-S.~Aoyama and N.~Itagaki.
-\newblock Di-neutron correlations in $^{7}\mathrm{H}$.
-\newblock {\em Phys. Rev. C}, 80:021304, Aug 2009.
-
-\bibitem{Gurov:2009}
-Yu.B. Gurov, S.V. Lapushkin, B.A. Chernyshev, and V.G. Sandukovsky.
-\newblock Search for superheavy hydrogen isotopes in pion absorption reactions.
-\newblock {\em Physics of Particles and Nuclei}, 40(4):558--581, 2009.
-
-\bibitem{Caamano:2007}
-M.~Caama\~no, D.~Cortina-Gil, W.~Mittig, H.~Savajols, M.~Chartier, C.~E.
-  Demonchy, B.~Fern\'andez, M.~B. G\'omez~Hornillos, A.~Gillibert, B.~Jurado,
-  O.~Kiselev, R.~Lemmon, A.~Obertelli, F.~Rejmund, M.~Rejmund,
-  P.~Roussel-Chomaz, and R.~Wolski.
-\newblock Resonance state in $^{7}\mathrm{H}$.
-\newblock {\em Phys. Rev. Lett.}, 99:062502, Aug 2007.
-
-\bibitem{Caamano:2008}
-M.~Caamano, D.~Cortina-Gil, W.~Mittig, H.~Savajols, M.~Chartier, C.E. Demonchy,
-  B.~Fernandez, M.B.~Gomez Hornillos, A.~Gillibert, B.~Jurado, O.~Kiselev,
-  R.~Lemmon, A.~Obertelli, F.~Rejmund, M.~Rejmund, P.~Roussel-Chomaz, and
-  R.~Wolski.
-\newblock Experimental study of resonance states in $^7$h and $^6$h.
-\newblock {\em Phys. Rev. C}, 78:044001, 2008.
-
-\bibitem{Nikolskii:2010}
-E.Yu. Nikolskii, A.A. Korsheninnikov, H.~Otsu, H.~Suzuki, K.~Yoneda, H.~Baba,
-  K.~Yamada, Y.~Kondo, N.~Aoi, A.S. Denikin, M.S. Golovkov, A.S. Fomichev, S.A.
-  Krupko, M.~Kurokawa, E.A. Kuzmin, I.~Martel, W.~Mittig, T.~Motobayashi,
-  T.~Nakamura, M.~Niikura, S.~Nishimura, A.A. Ogloblin, P.~Roussel-Chomaz,
-  A.~Sanchez-Benitez, Y.~Satou, S.I. Sidorchuk, T.~Suda, S.~Takeuchi,
-  K.~Tanaka, G.M. Ter-Akopian, Y.~Togano, and M.~Yamaguchi.
-\newblock Search for $^{7}$h in $^{2}$h+$^{8}he collisions.
-%\newblock {\em Phys.Rev. C}, 81:064606, 2010.
-$
 \end{thebibliography}
