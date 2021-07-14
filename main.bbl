@@ -8,6 +8,13 @@ D.~S. Ahn, N.~Fukuda, H.~Geissel, N.~Inabe, N.~Iwasa, T.~Kubo, K.~Kusaka, D.~J.
 \newblock Location of the neutron dripline at fluorine and neon.
 \newblock {\em Phys. Rev. Lett.}, 123:212501, Nov 2019.
 
+\bibitem{Aleksandrov:1984}
+D.V. Aleksandrov, E.A. Ganza, Yu.A.Glukhov, B.G.Novatsky, A.A.Ogloblin, and
+  D.N.Stepanov.
+\newblock Observation of nonstable heavy hydrogen isotope 6h in the reaction
+  7li(7li, 8b).
+\newblock {\em Yad. Fiz.}, 39:513, 1984.
+
 \bibitem{Aleksandrov:1982}
 D.V. Aleksandrov, Yu.A. Glukhov, A.S. Demyanova, V.I. Dukhanov, I.B. Mazurov,
   B.G. Novatsky, A.A. Ogloblin, S.B. Sakuta, and D.N. Stepanov.
@@ -33,6 +40,12 @@ A.~I. Baz', V.~I. Goldansky, V.~Z. Goldberg, and Ya.~B. Zeldovich.
 \newblock {\em Light and intermediate nuclei near the border of nuclear
   stability}.
 \newblock Nauka, Moscow, Moscow, 1972.
+
+\bibitem{Belozyorov:1986}
+A.V. Belozyorov, C.~Borcea, Z.~Dlouhy, A.M. Kalinin, R.~Kalpakchieva,
+  Nguyen~Hoai Chau, Yu.Ts. Oganessian, and Yu.E. Penionzhkevich.
+\newblock Search for 4h, 5h and 6h nuclei in the 11b-induced reaction on 9be.
+\newblock {\em Nuclear Physics A}, 460:352--360, 1986.
 
 \bibitem{Caamano:2007}
 M.~Caama\~no, D.~Cortina-Gil, W.~Mittig, H.~Savajols, M.~Chartier, C.~E.
@@ -234,6 +247,11 @@ E.~Yu. Nikolskii, A.~A. Korsheninnikov, H.~Otsu, H.~Suzuki, K.~Yoneda, H.~Baba,
 \newblock Search for $^{7}\mathrm{H}$ in $^{2}\mathrm{H}+^{8}\mathrm{He}$
   collisions.
 \newblock {\em Phys. Rev. C}, 81:064606, Jun 2010.
+
+\bibitem{PARKER:1990483}
+B.~Parker, Kamal~K. Seth, and R.~Soundranayagam.
+\newblock Search for superheavy hydrogen-6.
+\newblock {\em Physics Letters B}, 251(4):483--487, 1990.
 
 \bibitem{Seth:1981}
 K.K. Seth.
