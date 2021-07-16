@@ -47,6 +47,13 @@ A.V. Belozyorov, C.~Borcea, Z.~Dlouhy, A.M. Kalinin, R.~Kalpakchieva,
 \newblock Search for 4h, 5h and 6h nuclei in the 11b-induced reaction on 9be.
 \newblock {\em Nuclear Physics A}, 460:352--360, 1986.
 
+\bibitem{belozyorov:1988}
+A.V. Belozyorov, C.~Borcea, Z.~Dlouhy, A.M. Kalinin, {Nguyen Hoai Chau}, and
+  Yu.E. Penionzhkevich.
+\newblock Search for the tri- and tetra-neutron in reactions induced by 11b and
+  9be ions on 7li.
+\newblock {\em Nuclear Physics A}, 477(1):131--142, 1988.
+
 \bibitem{Caamano:2007}
 M.~Caama\~no, D.~Cortina-Gil, W.~Mittig, H.~Savajols, M.~Chartier, C.~E.
   Demonchy, B.~Fern\'andez, M.~B. G\'omez~Hornillos, A.~Gillibert, B.~Jurado,
@@ -91,11 +98,6 @@ C.~Caesar, J.~Simonis, T.~Adachi, Y.~Aksyutina, J.~Alcantara, S.~Altstadt,
   and ${}^{26}$o.
 \newblock {\em Phys. Rev. C}, 88:034313, Sep 2013.
 
-\bibitem{Gorbatov:1989}
-A.~M.~Gorbatov et~al.
-\newblock {\em Sov. J. Nucl. Phys.}, 50:962, 1989.
-\newblock [Yad. Fiz. 1551].
-
 \bibitem{Evseev:1981}
 V.S. Evseev, V.S. Kurbatov, V.M. Sidorov, V.B. Belyaev, J.~Wrzecionko, M.~Daum,
   R.~Frosch, J.~McCulloch, and E.~Steiner.
@@ -117,12 +119,23 @@ H.~T. Fortune.
 \newblock Structure of exotic light nuclei: Z = 2, 3, 4.
 \newblock {\em Eur. Phys. J. A}, 54:51, 2018.
 
+\bibitem{Goldansky:1960}
+V.~I. Goldansky.
+\newblock On neutron-deficient isotopes of light nuclei and the phenomena of
+  proton and two-proton radioactivity.
+\newblock {\em Nucl. Phys.}, 19:482--495, 1960.
+
 \bibitem{Golovkov:2004}
 M.~S. Golovkov, L.~V. Grigorenko, A.~S. Fomichev, Yu.~Ts. Oganessian, Yu.~I.
   Orlov, A.~M. Rodin, S.~I. Sidorchuk, R.~S. Slepnev, S.~V. Stepantsov, G.~M.
   Ter-Akopian, and R.~Wolski.
 \newblock Estimates of the $^7$h width and lower decay energy limit.
 \newblock {\em Phys. Lett. B}, 588:163, 2004.
+
+\bibitem{Gorbatov:1989}
+A.~M. Gorbatov and et~al.
+\newblock {\em Sov. J. Nucl. Phys.}, 50:962, 1989.
+\newblock [Yad. Fiz. 1551].
 
 \bibitem{Grigorenko:2016}
 L~V Grigorenko, M~S Golovkov, S~A Krupko, S~I Sidorchuk, G~M Ter-Akopian, A~S
@@ -143,6 +156,12 @@ Yu.B. Gurov, S.V. Lapushkin, B.A. Chernyshev, and V.G. Sandukovsky.
 \newblock Search for superheavy hydrogen isotopes in pion absorption reactions.
 \newblock {\em Physics of Particles and Nuclei}, 40(4):558--581, 2009.
 
+\bibitem{Higgins:2021}
+Michael~D. Higgins, Chris~H. Greene, A.~Kievsky, and M.~Viviani.
+\newblock Comprehensive study of the three- and four-neutron systems at low
+  energies.
+\newblock {\em Phys. Rev. C}, 103:024004, Feb 2021.
+
 \bibitem{Johansson:2010a}
 H.~T. Johansson, Yu. Aksyutina, T.~Aumann, K.~Boretzky, M.~J.~G. Borge,
   A.~Chatillon, L.~V. Chulkov, D.~Cortina-Gil, U.~Datta Pramanik, H.~Emling,
@@ -161,6 +180,19 @@ M.~D. Jones, Z.~Kohley, T.~Baumann, G.~Christian, P.~A. DeYoung, J.~E. Finck,
 \newblock Further insights into the reaction
   $^{14}\mathrm{Be}(\mathrm{CH}{}_{2},x)^{10}\mathrm{He}$.
 \newblock {\em Phys. Rev. C}, 91:044312, Apr 2015.
+
+\bibitem{Kisamori:2016}
+K.~Kisamori, S.~Shimoura, H.~Miya, S.~Michimasa, S.~Ota, M.~Assie, H.~Baba,
+  T.~Baba, D.~Beaumel, M.~Dozono, T.~Fujii, N.~Fukuda, S.~Go, F.~Hammache,
+  E.~Ideguchi, N.~Inabe, M.~Itoh, D.~Kameda, S.~Kawase, T.~Kawabata,
+  M.~Kobayashi, Y.~Kondo, T.~Kubo, Y.~Kubota, M.~Kurata-Nishimura, C.~S. Lee,
+  Y.~Maeda, H.~Matsubara, K.~Miki, T.~Nishi, S.~Noji, S.~Sakaguchi, H.~Sakai,
+  Y.~Sasamoto, M.~Sasano, H.~Sato, Y.~Shimizu, A.~Stolz, H.~Suzuki, M.~Takaki,
+  H.~Takeda, S.~Takeuchi, A.~Tamii, L.~Tang, H.~Tokieda, M.~Tsumura, T.~Uesaka,
+  K.~Yako, Y.~Yanagisawa, R.~Yokoyama, and K.~Yoshida.
+\newblock Candidate resonant tetraneutron state populated by the
+  $^{4}\mathrm{He}(^{8}\mathrm{He},^{8}\mathrm{Be})$ reaction.
+\newblock {\em Phys. Rev. Lett.}, 116:052501, Feb 2016.
 
 \bibitem{Kohley:2013}
 Z.~Kohley, T.~Baumann, D.~Bazin, G.~Christian, P.~A. DeYoung, J.~E. Finck,
@@ -228,6 +260,19 @@ S.~Leblond, F.~M. Marqu\'es, J.~Gibelin, N.~A. Orr, Y.~Kondo, T.~Nakamura,
 \newblock First observation of $^{20}\mathrm{B}$ and $^{21}\mathrm{B}$.
 \newblock {\em Phys. Rev. Lett.}, 121:262502, Dec 2018.
 
+\bibitem{Marques_PhysRev:2002}
+F.~M. Marqu\'es, M.~Labiche, N.~A. Orr, J.~C. Ang\'elique, L.~Axelsson,
+  B.~Benoit, U.~C. Bergmann, M.~J.~G. Borge, W.~N. Catford, S.~P.~G. Chappell,
+  N.~M. Clarke, G.~Costa, N.~Curtis, A.~D'Arrigo, E.~de~G\'oes~Brennand,
+  F.~de~Oliveira~Santos, O.~Dorvaux, G.~Fazio, M.~Freer, B.~R. Fulton,
+  G.~Giardina, S.~Gr\'evy, D.~Guillemaud-Mueller, F.~Hanappe, B.~Heusch,
+  B.~Jonson, C.~Le~Brun, S.~Leenhardt, M.~Lewitowicz, M.~J. L\'opez,
+  K.~Markenroth, A.~C. Mueller, T.~Nilsson, A.~Ninane, G.~Nyman, I.~Piqueras,
+  K.~Riisager, M.~G.~Saint Laurent, F.~Sarazin, S.~M. Singer, O.~Sorlin, and
+  L.~Stuttg\'e.
+\newblock Detection of neutron clusters.
+\newblock {\em Phys. Rev. C}, 65:044006, Apr 2002.
+
 \bibitem{Matta:2015}
 A.~Matta, D.~Beaumel, H.~Otsu, V.~Lapoux, N.~K. Timofeyuk, N.~Aoi, M.~Assi\'e,
   H.~Baba, S.~Boissinot, R.~J. Chen, F.~Delaunay, N.~de~Sereville, S.~Franchoo,
@@ -258,9 +303,20 @@ B.~Parker, Kamal~K. Seth, and R.~Soundranayagam.
 \newblock Search for superheavy hydrogen-6.
 \newblock {\em Physics Letters B}, 251(4):483--487, 1990.
 
+\bibitem{Pieper:2003}
+Steven~C. Pieper.
+\newblock Can modern nuclear hamiltonians tolerate a bound tetraneutron?
+\newblock {\em Phys. Rev. Lett.}, 90:252501, Jun 2003.
+
 \bibitem{Seth:1981}
 K.K. Seth.
 \newblock Pionic probes for exotic nuclei, 1981.
+
+\bibitem{Shirokov:2016}
+A.~M. Shirokov, G.~Papadimitriou, A.~I. Mazur, I.~A. Mazur, R.~Roth, and J.~P.
+  Vary.
+\newblock Prediction for a four-neutron resonance.
+\newblock {\em Phys. Rev. Lett.}, 117:182502, Oct 2016.
 
 \bibitem{Sidorchuk:2012}
 S.~I. Sidorchuk, A.~A. Bezbakh, V.~Chudoba, I.~A. Egorova, A.~S. Fomichev,
@@ -288,5 +344,21 @@ N.~K. Timofeyuk.
 \newblock Shell model approach to construction of a hyperspherical basis for a
   identical particles: Application to hydrogen and helium isotopes.
 \newblock {\em Phys. Rev. C}, 65:064306, May 2002.
+
+\bibitem{Timofeyuk:2003b}
+N~K Timofeyuk.
+\newblock Do multineutrons exist?
+\newblock {\em Journal of Physics G: Nuclear and Particle Physics},
+  29(2):L9--L14, jan 2003.
+
+\bibitem{Voitovetsky:1955}
+V.K. Voitovetsky and et~al.
+\newblock {\em Sov. Phys. JETP}, 1:2, 1955.
+
+\bibitem{Zeldovich:1960}
+Ya.~B. Zeldovich.
+\newblock On existence of new isotopes of light nuclei and neutron equation of
+  state.
+\newblock {\em Sov. Phys. JETP}, 38:1123, 1960.
 
 \end{thebibliography}
