@@ -137,12 +137,49 @@ A.~M. Gorbatov and et~al.
 \newblock {\em Sov. J. Nucl. Phys.}, 50:962, 1989.
 \newblock [Yad. Fiz. 1551].
 
+\bibitem{Gorres:1995}
+Joachim G\"orres, Michael Wiescher, and Friedrich-Karl Thielemann.
+\newblock Bridging the waiting points: The role of two-proton capture reactions
+  in the rp process.
+\newblock {\em Phys. Rev. C}, 51:392--400, Jan 1995.
+
+\bibitem{Grigorenko:2009b}
+L.~V. Grigorenko.
+\newblock Theoretical study of two-proton radioactivity. status and predictions
+  and and applications.
+\newblock {\em Physics of Particles and Nuclei}, 40:674--714, 2009.
+
 \bibitem{Grigorenko:2016}
 L~V Grigorenko, M~S Golovkov, S~A Krupko, S~I Sidorchuk, G~M Ter-Akopian, A~S
   Fomichev, and V~Chudoba.
 \newblock Studies of light exotic nuclei in the vicinity of neutron and proton
   drip lines at flnr jinr.
 \newblock {\em Physics-Uspekhi}, 59(4):321, 2016.
+
+\bibitem{GrigorenkoUFN:2019}
+L~V Grigorenko, B~Yu Sharkov, A~S Fomichev, A~L Barabanov, W~Bart, A~A Bezbakh,
+  S~L Bogomolov, M~S Golovkov, A~V Gorshkov, S~N Dmitriev, V~K Eremin, S~N
+  Ershov, M~V Zhukov, I~V Kalagin, A~V Karpov, T~Katayama, O~A Kiselev, A~A
+  Korsheninnikov, S~A Krupko, T~V Kulevoy, Yu~A Litvinov, E~V Lychagin, I~P
+  Maksimkin, I~N Meshkov, I~G Mukha, E~Yu Nikolskii, Yu~L Parfenova, V~V
+  Parkhomchuk, S~M Polozov, M~Pfutzner, S~I Sidorchuk, H~Simon, R~S Slepnev,
+  G~M Ter-Akopian, G~V Trubnikov, V~Chudoba, C~Scheidenberger, P~G Sharov, P~Yu
+  Shatunov, Yu~M Shatunov, V~N Shvetsov, N~B Shulgina, A~A Yukhimchuk, and
+  S~Yaramyshev.
+\newblock Scientific program of {DERICA} -- prospective accelerator and storage
+  ring facility for radioactive ion beam research.
+\newblock {\em Physics-Uspekhi}, 62(7):675--690, jul 2019.
+
+\bibitem{Grigorenko:2005a}
+L.~V. Grigorenko and M.~V. Zhukov.
+\newblock Three-body resonant radioactive capture reactions in astrophysics.
+\newblock {\em Phys. Rev. C}, 72:015803, 2005.
+
+\bibitem{Grigorenko:2006}
+L.V. Grigorenko, K.~Langanke, N.B. Shul'gina, and M.V. Zhukov.
+\newblock Soft dipole mode in $^{17}\mathrm{Ne}$ and the astrophysical $2p$
+  capture on $^{15}\mathrm{O}$.
+\newblock {\em Physics Letters B}, 641(3):254--259, 2006.
 
 \bibitem{Gurov:2007}
 Yu.B. Gurov, B.A. Chernyshev, S.V. Isakov, V.~S. Karpukhin, S.V. Lapushkin,
@@ -155,6 +192,11 @@ Yu.B. Gurov, B.A. Chernyshev, S.V. Isakov, V.~S. Karpukhin, S.V. Lapushkin,
 Yu.B. Gurov, S.V. Lapushkin, B.A. Chernyshev, and V.G. Sandukovsky.
 \newblock Search for superheavy hydrogen isotopes in pion absorption reactions.
 \newblock {\em Physics of Particles and Nuclei}, 40(4):558--581, 2009.
+
+\bibitem{Hansen:1987}
+P.G. Hansen and B.~Jonson.
+\newblock The neutron halo of extremely neutron-rich nuclei.
+\newblock {\em Europhys. Lett.}, 4:409, 1987.
 
 \bibitem{Higgins:2021}
 Michael~D. Higgins, Chris~H. Greene, A.~Kievsky, and M.~Viviani.
@@ -307,6 +349,14 @@ B.~Parker, Kamal~K. Seth, and R.~Soundranayagam.
 Steven~C. Pieper.
 \newblock Can modern nuclear hamiltonians tolerate a bound tetraneutron?
 \newblock {\em Phys. Rev. Lett.}, 90:252501, Jun 2003.
+
+\bibitem{Schatz:1998}
+H.~Schatz, A.~Aprahamian, J.~Gorresa, M.~Wiescher, T.~Rauscherb, J.F. Rembges,
+  F.-K. Thielemann, P.~Mtjller B.~Pfeiffer, K.-L. Kratz, H.~Herndld, B.A.
+  Brown, and H.~Rebel.
+\newblock rp-process nucleosynthesis at extreme temperature and density
+  conditions.
+\newblock {\em Physics Reports}, 294:167--263, 1998.
 
 \bibitem{Seth:1981}
 K.K. Seth.
