@@ -43,7 +43,7 @@ Further purification is achieved by separation of the fragments by their energy 
 The second dipole D2 compensates the dispersion occurring in the focal plane F2 and collects the fragments at the achromatic focal plane F3. 
 Identification of the reaction products is performed by the measurement of the Time of Flight (TOF) and energy
 loss ($E$) of the fragments.
-Both of them are measured by two BC404 plastic scintillation detectors installed in the the F3 and F5 focal planes with 12.3-meter base. 
+Both of them are measured by two BC404 plastic scintillation detectors installed in the the F3 and F5 focal planes with 12.3-meter base, see in Fig.\ \ref{fig:exp-common}.
 Each scintillator is coupled with four Hamamatsu R7600-200 photomultiplier tubes (PMT). 
 With these devices one can reach the time resolution of 100\,ps, which determines the accuracy of determining of the beam kinetic energy.
 The selection made for the thicknesses of the production target and wedge-shaped degrader in accord with the position determination made for the momentum slits standing in focal planes F2–F5 have direct influence on the yield and purity of the required RIB.
@@ -52,7 +52,25 @@ The reason of that is the fragmentation mechanism leads to the low-energy tails 
 Adding the velocity separation to the magnetic-rigidity analysis one can drastically reduce the effect of this contamination. 
 For this purpose a radio-frequency (RF) kicker is installed in on the beam-line between the F3 and F4 focal planes (see in Fig.\ \ref{fig:acculinna2_scheme}). 
 
-The secondary beam tracking is realized by pair of multi-wire proportional chambers (MWPC), placed at the distances of 28 and 81\,cm upstream of the experimental target plane, located in the reaction chamber.
+%-------------------------------------------------------------------------------
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{figures/exp-common}
+	\end{center}
+	%
+	\caption{
+		Experimental setup common for the experiments 1 and 2 at the final focal plane F5 of the ACCULINNA-2 fragment separator.
+		Detectors of the beam projectile positions (MWPC-1,2) and time-of-flight (ToF) are described in the text.
+		There is no common scale along the beam axis in this plot.	
+		The telescope detectors of the reaction products are also shown in Figs.\ \ref{fig:setup-1} and \ref{fig:setup-2}.
+	}
+	%
+	\label{fig:exp-common}
+\end{figure}
+%-------------------------------------------------------------------------------
+
+The secondary beam tracking is realized by pair of multi-wire proportional chambers (MWPC), illustrated in the sketch in Fig.\ \ref{fig:exp-common}.
+These detectors were placed at the distances of 28 and 81\,cm upstream of the experimental target plane, located in the reaction chamber.
 The MWPCs are filled with CF$_{4}$ and CH$_{4}$ gas mixture with a ratio 9 to 1 and atmospheric pressure.
 Each detector consists of two layers, 32 wires each, installed with interval of 1.25\,mm. 
 This allowed to determine the RIB interaction points in the target plane with a 1.8\,mm  precision.
@@ -88,7 +106,12 @@ It is well known, that in direct transfer processes, the reaction cross section 
 The concept of both experiments on heavy hydrogen isotopes investigations was to archive the record statistics by measuring the reaction products at the most possible forward angles.
 One can find out, that this idea was one of the motivations to modify the detector system after the first experimental run, see the detector's systems schemes, described below.
 
+%===============================================================================
+
 \subsubsection{Experiment 1}
+\label{sec:exp-1}
+
+%===============================================================================
 
 The first experiment was performed in 2018 with use of the $^{8}$He beam with energy 26\,AMeV, $\approx90\%$\,purity and intensity of $\approx10^{5}$\,pps.
 This secondary beam was produced by impinging of the $^{11}$B primary beam ($\approx 1$ p$\mu$A, 33.4\,AMeV) with  the 1-mm thick beryllium production target.
@@ -100,17 +123,18 @@ In the described conditions, the D$_{2}$ target thickness was $\approx 3.8 \time
 To ensure a homogeneous thickness of the target, only events when the RIB hit a central part of the target with a circular shape of the diameter of 17\,mm were taken into account.
 This selection ensured also the rejection of the reactions with the material of the target frame, made of stainless-steel.
 
-Two identical $\Delta E$-$E$-$E$ single-sided silicon-detector telescopes provided the measurement of the $^3$He recoil nuclei emitted from the target between $8^{\circ}$ and $26^{\circ}$ in the laboratory system, see Fig.\ \ref{fig:setup-1}.
-Both telescopes located 166 mm downstream the target consisted of three layers of silicon strip detectors (SSD).
-The 20-micron-thick SSD with a sensitive area of $50 \times 50$ mm$^2$ was divided into 16 strips, the second and the third layers were created by the two identical 1-mm thick SSDs ($60 \times 60$ mm$^2$ with 16 strips).
-
-Detection of the low energy recoil particles was performed with two identical $\Delta E$-$E$-$E$  telescopes positioned downstream on the two sides from the beam axis and covered angular range $9^{\circ}$–$27^{\circ}$ in the laboratory system, see Fig.\ \ref{fig:setup-1}.
-Each of these telescopes consisted of three layers of SSDs. 
+For detection of the low energy recoil particles, emitted from the target, two identical $\Delta E$-$E$-$E$ single-sided silicon-detector telescopes were used. 
+The latter allowed to measure the energy and to reconstruct the emission angle of the passing particles with accuracy \textcolor{red}{$\approx1\%$} and $\approx1^{\circ}$ respectively.
+Therefore, these assemblies provided high quality identification and tracking of charged particles with energies from few MeV up to $100$\,MeV.
+The described side telescopes were located 166\,mm downstream from the target and covered angular range between $8^{\circ}$ and $26^{\circ}$ in the laboratory system, see Fig.\ \ref{fig:setup-1} 
+Each telescope consisted of three layers of SSDs. 
 A 20-$\mu$m thick Si $\Delta$E-SSD of model W1 (SS)-20 Type 2M, produced by Micron Semiconductor Ltd \textcolor{red}{[micron semiconductor website]}, had a sensitive area of $50 \times 50$ mm$^2$, divided into 16 strips, and occupied the front position in the telescopes.
 The pair of identical 1-mm thick ($60 \times 60$ mm$^2$ with 16 strips, model \textcolor{red}{???}) SSDs were placed on the second and third positions.
 In order to track the particles with such telescopes, the strips of the first (20-$\mu$m) and the second layer detectors were set to be perpendicular to each other. 
 The third SSD was used as a veto detector for to eliminate signals coming from the particles penetrating the second layer.
 
+%The energy values of the individual RIB projectiles were determined with precision of $ \approx 0.2 \%$ by means of the Time-of-Flight (ToF) detector. 
+%The granularity of the $^{3}$He telescopes
 %-------------------------------------------------------------------------------
 \begin{figure}
 	\begin{center}
@@ -129,3 +153,42 @@ This central telescope consisted of one 1.5\,mm thick double-sided SSD ($64 \tim
 The crystals had a cross section of $16.5\times16.5$ mm$^2$ and thickness 50\,mm each, which allows to stop the beam and all charged reaction products in the sensitive volume of the telescope.
 Each crystal was covered with a 3.5\,$\mu$m-thick aluminized Mylar on its entrance and was coupled with its Hamamatsu R9880U-20 photomultiplier tube (PMT) by the optical grease.
 In order to increase the collection of light and to avoid light cross-talks, each crystal was wrapped in a 100\,$\mu$m-thick VM-2000 reflector.
+
+%===============================================================================
+
+\subsubsection{Experiment 2}
+\label{sec:exp-2}
+
+%===============================================================================
+
+The most important task of the second experiment, studying the same $^2$H($^8$He,$^3$He)$^7$H reaction, was to increase the statistics obtained in the first one and to expand the measured angular range of the recoils to lower values in the laboratory system.
+For this purpose, the detector setup was modified, see Fig.\ \ref{fig:setup-2}.
+The new side telescope assembly was installed at a distance of 179\,mm from the target.
+It consisted of four identical $\Delta E$-$E$-$E$ telescopes made of the same SSDs as described in Section \ref{sec:exp-1}.
+The angular range covered by these telescopes for the $^3$He recoil nuclei was extended up to the range from $\approx 6^{\circ}$ to $\approx 24^{\circ}$ in the laboratory system.
+
+The high energy particles, emitted at low angles, were measured in the experiment 2 within more narrow cone in comparison with the experiment 1.
+For this purpose, the central telescope, the same as in the experiment 1, was placed at a distance of 323\,mm downstream from the target.
+As a result of the made modifications, we could expect to increase the statistics of the reactions of interest by a factor of $\approx 2.5$.
+
+%-------------------------------------------------------------------------------
+\begin{figure}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{figures/setup-2}
+	\end{center}
+	%
+	\caption{Charged particle detector telescopes used in the experiment 2.}
+	%
+	\label{fig:setup-2}
+\end{figure}
+%-------------------------------------------------------------------------------
+
+The setup of the second experiment also included the neutron spectrometer, made of 48 organic scintillator modules \cite{Bezbakh:2018}.
+The spectrometer detects neutrons by measuring the light produced by the interaction of the recoil charged particles (mainly protons) within the scintillator.
+It was located at zero angle in approximately 2 meters behind the reaction chamber.
+The distance between the neighboring modules was approximately 12\,cm, which allowed to cover most of the forward angles, see Fig.\ \ref{fig:exp-common}.
+The sensitive part of each module was cylinder made of stilbene monocrystal, C$_{14}$H$_{12}$. 
+Each cylinder had 8\,cm diameter and 5\,cm thickness and was oriented by its axis to the target.
+Each crystal, covered with reflective MgO powder, was inserted into the 0.5\,mm thick aluminum housing and connected to the PMT by the glass window and optical grease.
+Two types of PMT were used: Philips Photonics XP 4312 and ET-Enterprise 9822B. 
+In order to decrease the background signals produced by charged particles or $\gamma$-rays, PMT-crystal systems were put into the steel tubes with 0.5\,mm entrance windows.
