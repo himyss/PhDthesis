@@ -113,7 +113,7 @@ One can find out, that this idea was one of the motivations to modify the detect
 
 %===============================================================================
 
-The first experiment was performed in 2018 with use of the $^{8}$He beam with energy 26\,AMeV, $\approx90\%$\,purity and intensity of $\approx10^{5}$\,pps.
+The first experiment was performed in 2018 with use of the $^{8}$He beam with purity of $\approx90\%$ and intensity of $\approx10^{5}$\,pps and the energy in the middle target plane spread within $\pm7$ around the mean value of 26\,AMeV.
 This secondary beam was produced by impinging of the $^{11}$B primary beam ($\approx 1$ p$\mu$A, 33.4\,AMeV) with  the 1-mm thick beryllium production target.
 The target cell, 25\,mm in diameter and 4-mm thick, was filled with deuterium gas (further D$_{2}$) at temperature of 30\,K and atmospheric pressure. 
 In order to keep the gas inside the cell, target was equipped with 6\,$\mu$m thick stainless-steel entrance and exit windows.
@@ -161,15 +161,18 @@ In order to increase the collection of light and to avoid light cross-talks, eac
 
 %===============================================================================
 
-The most important task of the second experiment, studying the same $^2$H($^8$He,$^3$He)$^7$H reaction, was to increase the statistics obtained in the first one and to expand the measured angular range of the recoils to lower values in the laboratory system.
+The second experiment was dedicated to studies of the $^2$H-$^3$He reaction mechanism, realized with the $^8$He beam of the same properties as in experiment\,1, and the beam of $^{10}$Be with energy of $42\pm7$\,AMeV.
+The latter was used for the reference reaction studies in order to test the reliability of the obtained experimental data and to control calibration parameters and all setup configurations.
+These measurements were performed just after the main run with $^8$He beam and all conditions related to the experimental setup (experiment\,2) were kept the same.
+The most important task of the second experiment was to increase the statistics obtained in the first one and to expand the measured angular range of the recoils to lower values in the laboratory system.
 For this purpose, the detector setup was modified, see Fig.\ \ref{fig:setup-2}.
 The new side telescope assembly was installed at a distance of 179\,mm from the target.
 It consisted of four identical $\Delta E$-$E$-$E$ telescopes made of the same SSDs as described in Section \ref{sec:exp-1}.
 The angular range covered by these telescopes for the $^3$He recoil nuclei was extended up to the range from $\approx 6^{\circ}$ to $\approx 24^{\circ}$ in the laboratory system.
 
-The high energy particles, emitted at low angles, were measured in the experiment 2 within more narrow cone in comparison with the experiment 1.
-For this purpose, the central telescope, the same as in the experiment 1, was placed at a distance of 323\,mm downstream from the target.
-As a result of the made modifications, we could expect to increase the statistics of the reactions of interest by a factor of $\approx 2.5$.
+The high energy particles, emitted at low angles, were measured in experiment\,2 within more narrow cone in comparison with experiment\,1.
+For this purpose, the central telescope, the same as in experiment\,1, was placed at a distance of 323\,mm downstream from the target.
+As a result of the made modifications, considered together with the fact that the beamtime of the second experiment was $\approx2$ times longer, we could expect to increase the statistics of the reactions of interest by a factor of $\approx 2.5$.
 
 %-------------------------------------------------------------------------------
 \begin{figure}
@@ -192,3 +195,21 @@ Each cylinder had 8\,cm diameter and 5\,cm thickness and was oriented by its axi
 Each crystal, covered with reflective MgO powder, was inserted into the 0.5\,mm thick aluminum housing and connected to the PMT by the glass window and optical grease.
 Two types of PMT were used: Philips Photonics XP 4312 and ET-Enterprise 9822B. 
 In order to decrease the background signals produced by charged particles or $\gamma$-rays, PMT-crystal systems were put into the steel tubes with 0.5\,mm entrance windows.
+
+\subsection{Data acquisition system}
+
+The amplifired signals come from all silicon and scintillation detectors were split into two channel branches and processed by either constant-fraction or leading-edge discriminator. 
+The used readout system allowed to use both time-to-digital converter (TDC) and amplitude-to-digital converter (ADC) for all channels of the detector system.
+Moreover, we should note that, the signals, corresponded to the neutron spectrometer, were also processed by the time-to-amplitude converter, which provides the data for neutron identification \cite{Bezbakh:2018}.
+
+We used the same logic of the data acquisition, trigger formation and event building, for all conducted experiments.
+In order to fulfil both functions of beam diagnostic and selection of the desired events, two different triggers with "OR" coincidence logic, were used for the data acquisition.
+In the next chapters, we refer them as "beam" and "experimental" triggers.
+If both of them were fired, the system saves the experimental trigger value.
+The beam trigger corresponded to those events, when any particle interacted with the ToF scintillation detector, located at F5 focal plane. 
+Obviously, one can expect, that the beam trigger fires significantly more often than the experimental one.
+Moreover, the data acquisition system has its own processing time, called "busy" status, during which no new coming data can be collected.
+That is why the beam trigger was connected to the scaler block, which allowed to reduce the count rate of the corresponded events by a factor of 1024.
+The experimental trigger signal was formed by the signals coming from the second layer of the side silicon telescopes.
+If any of the trigger signals was fired, and the data acquisition system is not busy, the data from all connected blocks was read out by a frontend VME controller RIO4, controlled by the Multi-Branch System (MBS) data acquisition software [\textcolor{red}{????}].
+The written data, consisted of more than 500 signal parameters, had the event structure and stored into binary files.
